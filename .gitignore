@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Dados e resultados ficam no Google Drive, não no repositório
+*.pkl
+resultados/
+
+# mantém as planilhas de exemplo
+!exemplos/*.csv

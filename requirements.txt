@@ -1,0 +1,9 @@
+# Bibliotecas usadas pelo notebook deteccao_fraude_rastreadores.ipynb
+# O Colab já traz a maior parte delas; o notebook instala o xgboost automaticamente.
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+xgboost>=2.0
+matplotlib>=3.7
+joblib>=1.3
+openpyxl>=3.1
